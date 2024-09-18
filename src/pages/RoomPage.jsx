@@ -46,6 +46,7 @@ const RoomPage = () => {
       {/* SEO Meta Tags */}
       <Helmet>
         <title>Chopta Inn - Room Types | Chopta to Tungnath</title>
+        <link rel="canonical" href="https://www.choptainn.com/room" />
         <meta name="description" content="Explore the luxurious rooms at Chopta Inn. Choose from Deluxe, Superior, and Suite rooms with stunning views and premium amenities. Book your stay now!" />
         <meta name="keywords" content="Chopta Inn, deluxe room, superior room, suite, hotel rooms, Chopta to Tungnath, luxury accommodation, Himalayan retreat" />
         <meta name="author" content="Chopta Inn" />
@@ -53,10 +54,10 @@ const RoomPage = () => {
         <meta property="og:title" content="Chopta Inn - Room Types | Chopta to Tungnath" />
         <meta property="og:description" content="Explore the luxurious rooms at Chopta Inn. Choose from Deluxe, Superior, and Suite rooms with stunning views and premium amenities. Book your stay now!" />
         <meta property="og:image" content={room1} />
-        <meta property="og:url" content="https://www.example.com/rooms" />
+        
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="Chopta Inn" />
-        <link rel="canonical" href="https://www.example.com/rooms" />
+       
         <meta property="og:image:alt" content="A luxurious room at Chopta Inn with scenic views and elegant furnishings" />
       </Helmet>
 

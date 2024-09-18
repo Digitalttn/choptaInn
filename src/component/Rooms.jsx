@@ -52,14 +52,14 @@ const Rooms = () => {
           />
           {/* Room 2 */}
           <RoomCard 
-            image={room2} 
+            image={room1} 
             alt="Forest Whisper Cozy Cabin"
             title="Forest Whisper Cozy Cabin"
             data-aos="fade-up"
           />
           {/* Room 3 */}
           <RoomCard 
-            image={room3} 
+            image={room1} 
             alt="Wildflower Meadows Suite"
             title="Wildflower Meadows Suite"
             data-aos="fade-left"

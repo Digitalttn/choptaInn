@@ -25,6 +25,7 @@ const Home = () => {
       {/* Meta tags for SEO */}
       <Helmet>
         <title>Chopta Inn - Best Hotel in Chopta</title>
+        <link rel="canonical" href="https://www.choptainn.com/" />
         <meta name="description" content="Discover the perfect getaway at Chopta Inn, located in Makku Math village on the route to Tungnath Temple. Experience nature's beauty, comfortable accommodations, and exciting activities. Book your stay now!" />
         <meta name="keywords" content="Chopta, Makku Math, Tungnath, cottage, nature, getaway, retreat, stay, accommodation, activities" />
         <meta name="author" content="Chopta Inn" />

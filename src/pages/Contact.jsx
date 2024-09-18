@@ -55,7 +55,8 @@ const ContactUs = () => {
       
 <Helmet>
         <title>Contact Us - Chopta Inn</title>
-        <meta property="og:url" content="https://choptainn.com/contact" />
+        <link rel="canonical" href="https://www.choptainn.com/contact" />
+        
         <meta name="description" content="Get in touch with Chopta Inn for bookings and inquiries. Contact us for a memorable stay in Chopta, Uttarakhand." />
         <meta name="keywords" content="Chopta Inn, contact, hotel, bookings, Chopta, Uttarakhand, Travel To Nirvana" />
         <meta property="og:title" content="Contact Us - Chopta Inn" />

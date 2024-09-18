@@ -23,6 +23,7 @@ const ActivitesPage = () => {
       {/* SEO Meta Tags */}
       <Helmet>
         <title>Facilities & Activities at Chopta | Adventure Awaits</title>
+        <link rel="canonical" href="https://www.choptainn.com/activity" />
         <meta name="description" content="Explore exciting activities and facilities at Chopta. From bonfires to trekking, discover adventure and relaxation in the heart of nature." />
         <meta name="keywords" content="Chopta activities, bonfire, trekking, accommodation, adventure, Chopta tourism" />
         <meta name="author" content="Chopta Inn" />

@@ -24,6 +24,7 @@ const Explore = () => {
       {/* SEO Meta Tags */}
       <Helmet>
         <title>Explore Uttarakhand's Chopta Valley | Chopta to Tungnath</title>
+        <link rel="canonical" href="https://www.choptainn.com/explore" />
         <meta name="description" content="Discover the breathtaking beauty of Chopta Valley in Uttarakhand. Explore Tungnath, Chandrashila, and Deoria Taal with stunning views and enriching experiences." />
         <meta name="keywords" content="Chopta Valley, Tungnath, Chandrashila, Deoria Taal,Makku Math Uttarakhand travel, Himalayan trekking, Chopta tourism" />
         <meta name="author" content="Chopta Inn" />

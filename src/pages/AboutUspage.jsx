@@ -55,6 +55,7 @@ const AboutUsPage = () => {
     <>
       <Helmet>
         <title>About Chopta Inn</title>
+        <link rel="canonical" href="https://www.choptainn.com/about" />
         <meta name="description" content="Chopta Inn, part of Travel to Nirvana, offers a serene retreat with luxurious accommodations in the Himalayas. Discover our story, vision, and why you should choose us for your stay." />
         <meta name="keywords" content="Chopta Inn, Travel to Nirvana, Himalayan retreat, luxury accommodations, adventure, relaxation" />
         <meta name="author" content="Travel to Nirvana" />
